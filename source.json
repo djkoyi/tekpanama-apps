@@ -45,23 +45,23 @@
       ]
     },
     {
-      "bundleIdentifier": "com.ichitaso.otadisablerts",
-      "name": "OTADisabler",
-      "developerName": "ichitaso",
-      "version": "1.2.0",
+      "bundleIdentifier": "com.tekpanama.otablocker",
+      "name": "OTABlocker",
+      "developerName": "tekpanama",
+      "version": "1.0.0",
       "versionDate": "2026-11-14",
-      "localizedDescription": "Bloquea actualizaciones OTA de iOS. Originalmente diseñado para TrollStore, funcional como sideload.",
-      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/otadisabler.png",
-      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.2.0/OTADisabler_1.2.0.ipa",
-      "size": 220341,
+      "localizedDescription": "Bloquea actualizaciones OTA via perfil de configuracion. Redirige update checks a feed tvOS sin assets para iPhone. No requiere TrollStore ni jailbreak.",
+      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/otablocker.png",
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otablocker-v1.0.0/OTABlocker-unsigned.ipa",
+      "size": 44119,
       "versions": [
         {
-          "version": "1.2.0",
+          "version": "1.0.0",
           "date": "2026-11-14",
-          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.2.0/OTADisabler_1.2.0.ipa",
-          "size": 220341,
-          "localizedDescription": "OTADisabler v1.2.0 por ichitaso. Bloquea actualizaciones OTA.",
-          "minOSVersion": "14.0"
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otablocker-v1.0.0/OTABlocker-unsigned.ipa",
+          "size": 44119,
+          "localizedDescription": "Version inicial. Perfil NOOTA tvOS27 seed redirect.",
+          "minOSVersion": "16.0"
         }
       ]
     }
