@@ -45,23 +45,31 @@
       ]
     },
     {
-      "bundleIdentifier": "com.tekpanama.otablocker",
-      "name": "OTABlocker",
-      "developerName": "tekpanama",
-      "version": "1.0.0",
+      "bundleIdentifier": "com.ichitaso.otadisablerts",
+      "name": "OTADisabler",
+      "developerName": "tekpanama (basado en ichitaso)",
+      "version": "1.3.0",
       "versionDate": "2026-11-14",
-      "localizedDescription": "Bloquea actualizaciones OTA via perfil de configuracion. Redirige update checks a feed tvOS sin assets para iPhone. No requiere TrollStore ni jailbreak.",
-      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/otablocker.png",
-      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otablocker-v1.0.0/OTABlocker-unsigned.ipa",
-      "size": 44119,
+      "localizedDescription": "Bloquea actualizaciones OTA via perfil de configuracion. Redirige update checks a feed tvOS. No requiere TrollStore ni jailbreak. Reescrito v1.3.0.",
+      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/otadisabler.png",
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.3.0/OTADisabler-v1.3.0-unsigned.ipa",
+      "size": 44144,
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.3.0",
           "date": "2026-11-14",
-          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otablocker-v1.0.0/OTABlocker-unsigned.ipa",
-          "size": 44119,
-          "localizedDescription": "Version inicial. Perfil NOOTA tvOS27 seed redirect.",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.3.0/OTADisabler-v1.3.0-unsigned.ipa",
+          "size": 44144,
+          "localizedDescription": "Reescrito sin TrollStore. Perfil NOOTA tvOS27 seed redirect via servidor HTTP local + Safari.",
           "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.0",
+          "date": "2026-11-14",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.2.0/OTADisabler_1.2.0.ipa",
+          "size": 220341,
+          "localizedDescription": "Version original por ichitaso. Requiere TrollStore.",
+          "minOSVersion": "14.0"
         }
       ]
     }
