@@ -22,6 +22,48 @@
           "minOSVersion": "15.0"
         }
       ]
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube",
+      "name": "uYouEnhanced",
+      "developerName": "arichornlover / MiRO92",
+      "version": "21.20.4",
+      "versionDate": "2026-11-14",
+      "localizedDescription": "YouTube v21.20.4 con uYou v3.0.5. Sin anuncios, reproduccion en segundo plano, descarga de videos, SponsorBlock y mas.",
+      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/uyouenhanced.png",
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/uyouenhanced-v21.20.4/uYouEnhanced-21.20.4.ipa",
+      "size": 154391978,
+      "versions": [
+        {
+          "version": "21.20.4",
+          "date": "2026-11-14",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/uyouenhanced-v21.20.4/uYouEnhanced-21.20.4.ipa",
+          "size": 154391978,
+          "localizedDescription": "YouTube 21.20.4 + uYou 3.0.5. Ad-free, background playback, video download, SponsorBlock.",
+          "minOSVersion": "16.0"
+        }
+      ]
+    },
+    {
+      "bundleIdentifier": "com.ichitaso.otadisablerts",
+      "name": "OTADisabler",
+      "developerName": "ichitaso",
+      "version": "1.2.0",
+      "versionDate": "2026-11-14",
+      "localizedDescription": "Bloquea actualizaciones OTA de iOS. Originalmente diseñado para TrollStore, funcional como sideload.",
+      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/otadisabler.png",
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.2.0/OTADisabler_1.2.0.ipa",
+      "size": 220341,
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-11-14",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/otadisabler-v1.2.0/OTADisabler_1.2.0.ipa",
+          "size": 220341,
+          "localizedDescription": "OTADisabler v1.2.0 por ichitaso. Bloquea actualizaciones OTA.",
+          "minOSVersion": "14.0"
+        }
+      ]
     }
   ],
   "news": []
