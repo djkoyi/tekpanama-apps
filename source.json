@@ -10,13 +10,13 @@
       "versionDate": "2026-11-14",
       "localizedDescription": "File manager con sandbox escape para iOS 18-27. Basado en Filza + FilzaApplySandboxExt.",
       "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/filzaslop.png",
-      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/filzaslop-v1.2.0/FilzaSlop-v1.2.0-unsigned.ipa",
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/filzaslop-v1.2.0/FilzaSlop-unsigned.ipa",
       "size": 14947021,
       "versions": [
         {
           "version": "1.2.0",
           "date": "2026-11-14",
-          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/filzaslop-v1.2.0/FilzaSlop-v1.2.0-unsigned.ipa",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/filzaslop-v1.2.0/FilzaSlop-unsigned.ipa",
           "size": 14947021,
           "localizedDescription": "Version inicial. Basado en FilzaSlop v1.2.0 de 0xjohnnydev.",
           "minOSVersion": "15.0"
