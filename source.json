@@ -80,6 +80,27 @@
           "minOSVersion": "14.0"
         }
       ]
+    },
+    {
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "name": "TikTok TSR",
+      "developerName": "ACTikTok / TSRProbe",
+      "version": "44.3.0",
+      "versionDate": "2026-11-23",
+      "localizedDescription": "TikTok 44.3.0 con ACTikTok 2.1 y sonda TSRProbe (boton TSR) para automatizar rachas.",
+      "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/tiktok-tsr.png",
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/tiktok-tsr-v44.3.0/TikTok-44.3.0-TSRProbe.ipa",
+      "size": 429167885,
+      "versions": [
+        {
+          "version": "44.3.0",
+          "date": "2026-11-23",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/tiktok-tsr-v44.3.0/TikTok-44.3.0-TSRProbe.ipa",
+          "size": 429167885,
+          "localizedDescription": "TikTok 44.3.0 + ACTikTok 2.1 + sonda TSRProbe para automatizar rachas.",
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []
