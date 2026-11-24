@@ -85,13 +85,21 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "name": "TikTok TSR",
       "developerName": "ACTikTok / TSRProbe",
-      "version": "44.3.0",
-      "versionDate": "2026-11-23",
+      "version": "44.3.0-r2",
+      "versionDate": "2026-11-24",
       "localizedDescription": "TikTok 44.3.0 con ACTikTok 2.1 y sonda TSRProbe (boton TSR) para automatizar rachas.",
       "iconURL": "https://raw.githubusercontent.com/djkoyi/tekpanama-apps/main/icons/tiktok-tsr.png",
-      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/tiktok-tsr-v44.3.0/TikTok-44.3.0-TSRProbe.ipa",
-      "size": 429167885,
+      "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/tiktok-tsr-v44.3.0-r2/TikTok-44.3.0-TSRProbe-r2.ipa",
+      "size": 429178419,
       "versions": [
+        {
+          "version": "44.3.0-r2",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/djkoyi/tekpanama-apps/releases/download/tiktok-tsr-v44.3.0-r2/TikTok-44.3.0-TSRProbe-r2.ipa",
+          "size": 429178419,
+          "localizedDescription": "Menu de rachas en el boton TSR: guardar contacto, mensaje, hora, activar y enviar prueba.",
+          "minOSVersion": "15.0"
+        },
         {
           "version": "44.3.0",
           "date": "2026-11-23",
